@@ -1,0 +1,12 @@
+.covid-dashboard{
+    display: flex;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(197, 198, 199, 0.891);
+}
+.top-nav{
+    display: flex;
+    height: 10vh;
+    width: 100;
+    background-color: #fff;
+}

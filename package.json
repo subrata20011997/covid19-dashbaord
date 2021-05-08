@@ -19,6 +19,10 @@
     "@angular/platform-browser": "~9.1.0",
     "@angular/platform-browser-dynamic": "~9.1.0",
     "@angular/router": "~9.1.0",
+    "@angular/service-worker": "~9.1.0",
+    "d3": "^6.7.0",
+    "ngx-papaparse": "^5.0.0",
+    "ngx-csv-parser": "0.0.7",
     "rxjs": "~6.5.4",
     "tslib": "^1.10.0",
     "zone.js": "~0.10.2"
